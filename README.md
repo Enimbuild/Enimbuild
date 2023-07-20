@@ -14,9 +14,9 @@ Prior to starting Python, I self taught myself HTML, CSS,Bootstrap, PHP, but tha
 ### 💼 I'm currently working on ✨Projects✨ using:
 <hr>
 - Data Science by using python libraries for data analysis<br>
-- Django for web developments<br>
+- 🔥 Django for web developments<br>
 - RestAPIs for endpoints connection<br>
-- Flutter & ReactNative to enable frontend possibilty<br>
+- 🌱 Flutter & ReactNative to enable frontend possibilty<br>
 
 I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
 
@@ -24,6 +24,11 @@ I am incredibly excited on this new journey in programming and the 🔭future po
 I am available for **Hiring** and **Collaboration**<br>
 You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
 <a href="sarsah4@gmail.com">Email</a>
+
+#### Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Enimbuild&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt"Enimbuild"></a></p>
+
 
 ***Skills***:
 class Skills():
