@@ -13,9 +13,9 @@ Prior to starting Python, I self taught myself HTML, CSS,Bootstrap, PHP, but tha
 
 ### 💼 I'm currently working on ✨Projects✨ using:
 <hr>
-- Data Science by using python libraries for data analysis<br>
+- ❤️ Data Science by using python libraries for data analysis<br>
 - 🔥 Django for web developments<br>
-- RestAPIs for endpoints connection<br>
+- 🚀 RestAPIs for endpoints connection<br>
 - 🌱 Flutter & ReactNative to enable frontend possibilty<br>
 
 I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
