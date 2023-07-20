@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst;I'm+a+Back+end+developer;I'm+a+Python+programmer" /></a>
 </p>
-I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom teaching in the classroom. 
+I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom teaching in the classroom. <br>
 
 Upon moving to Germany and observing how events were shaping up these last 3 years around the world,I decided to make a career switch in IT and to embarked on a bold challenge to learn Python and backend programming.
 
