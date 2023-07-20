@@ -22,8 +22,9 @@ I am incredibly excited on this new journey in programming and the 🔭future po
 
 ### 📫 How to Reach Me
 I am available for **Hiring** and **Collaboration**<br>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felixsarsah/)
-You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
+
+You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felixsarsah/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarsah4@gmail.com)
 Email:<a href="">sarsah4@gmail.com</a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Enimbuild)
