@@ -23,7 +23,7 @@ I am incredibly excited on this new journey in programming and the 🔭future po
 ### 📫 How to Reach Me
 I am available for **Hiring** and **Collaboration**<br>
 You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
-<a href="">Email me sarsah@gmail.com</a>
+Email:<a href="">sarsah@gmail.com</a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Enimbuild)
 
