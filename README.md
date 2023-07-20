@@ -53,7 +53,7 @@ I enjoy:
 - Painting 
 - Football
 
-***💬 Ask me about Pythong ...***
+***💬 Ask me about Python ...***
 I will be happy to answer your questions about Python Programming.
 
   
