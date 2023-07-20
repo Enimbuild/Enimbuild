@@ -30,7 +30,8 @@ You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">Linked
 
 
 
-***Skills***:
+***Skills***:<br>
+
 class Skills():
     
     def __Proficient__(self):
