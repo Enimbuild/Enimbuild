@@ -64,6 +64,6 @@ I will be happy to answer your questions about Python Programming.
 
 ![GitHub metrics](https://metrics.lecoq.io/Enimbuild)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Enimbuild) ![Profile views](https://gpvc.arturio.dev/Enimbuild)
+
 
 
