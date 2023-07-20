@@ -1,16 +1,57 @@
-### Hi there 👋
+### Hi  Felix here!:wave:
+<hr>
 
-<!--
-**Enimbuild/Enimbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst;I'm+a+Back+end+developer;I'm+a+Python+programmer" /></a>
+</p>
+I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom teaching in the classroom. 
 
-Here are some ideas to get you started:
+Upon moving to Germany and observing how events were shaping up these last 3 years around the world,I decided to make a career switch in IT and to embarked on a bold challenge to learn Python and backend programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prior to starting Python, I self taught myself HTML, CSS,Bootstrap, PHP, but that was not enough, so I made the ultimate decision to enroll with DCI to undertake a 1 year intensive backend programming in Python to open new frontiers.
+
+### 💼 I'm currently working on ✨Projects✨ using:
+<hr>
+- Data Science -using python libraries for data analysis
+- Django for web developments
+- RestAPIs for endpoints connection
+- Flutter & ReactNative to enable frontend possibilty
+
+I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
+
+### 📫 How to Reach Me
+I am available for **Hiring** and **Collaboration**
+You can contact me on <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
+<a href="sarsah4@gmail.com">Email</a>
+
+***Skills***:
+class Skills():
+    
+    def __Proficient__(self):
+       return f"I am proficient in Python, HTML and CSS"
+    
+    def __Beginner__(self):
+        
+        return f"beginners level in Javascript."
+
+
+Felix = Skills()
+print(Felix.__Proficient__(),"but at a",Felix.__Beginner__())
+
+
+***😄Fun Facts About Me***
+I enjoy:
+- I am a <a href="https://youtube.com/c/felixsarsah">youtuber</a>
+- Writing Books
+- Painting 
+- Football
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enimbuild&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enimbuild)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/Enimbuild)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Enimbuild)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Enimbuild) ![Profile views](https://gpvc.arturio.dev/Enimbuild)
+
+***💬 Ask me about Pythong ...***
+I will be happy to answer your questions about Python Programming.
+
