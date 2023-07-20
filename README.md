@@ -25,9 +25,9 @@ I am available for **Hiring** and **Collaboration**<br>
 You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
 <a href="sarsah4@gmail.com">Email</a>
 
-#### Trophies
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Enimbuild)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Enimbuild&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt"Enimbuild"></a></p>
+
 
 
 ***Skills***:
@@ -52,12 +52,18 @@ I enjoy:
 - Painting 
 - Football
 
+***💬 Ask me about Pythong ...***
+I will be happy to answer your questions about Python Programming.
+
+  
+***Trophies***
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Enimbuild&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt"Enimbuild"></a></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enimbuild&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enimbuild)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Enimbuild)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Enimbuild)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Enimbuild) ![Profile views](https://gpvc.arturio.dev/Enimbuild)
 
-***💬 Ask me about Pythong ...***
-I will be happy to answer your questions about Python Programming.
 
