@@ -22,6 +22,7 @@ I am incredibly excited on this new journey in programming and the 🔭future po
 
 ### 📫 How to Reach Me
 I am available for **Hiring** and **Collaboration**<br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felixsarsah/)
 You can contact me on: <br> <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
 Email:<a href="">sarsah4@gmail.com</a>
 
