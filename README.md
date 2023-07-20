@@ -21,7 +21,7 @@ Prior to starting Python, I self taught myself HTML, CSS,Bootstrap, PHP, but tha
 I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
 
 ### 📫 How to Reach Me
-I am available for **Hiring** and **Collaboration**
+I am available for **Hiring** and **Collaboration**<br>
 You can contact me on <a href="https://linkedin.com/in/felixsarsah">LinkedIn</a><br>
 <a href="sarsah4@gmail.com">Email</a>
 
