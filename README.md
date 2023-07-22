@@ -9,7 +9,7 @@ I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in L
 
 Upon moving to Germany and observing how events were shaping up these last 3 years around the world, I decided to make a career switch in IT and to embarked on a bold challenge to learn Python and backend programming.
 
-Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was not enough, so I made the ultimate decision to enroll with DCI to undertake a 1 year intensive backend programming in Python to open new frontiers.
+Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was not enough, so I made the ultimate decision to enroll and undertake a 1 year intensive backend programming in Python to open new frontiers.
 
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
