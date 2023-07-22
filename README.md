@@ -14,7 +14,7 @@ Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
 - ❤️ <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook">Data Science</a> by using python libraries for data analysis<br>
-- 🔥 Flasj & Django for web developments<br>
+- 🔥 Flask & Django for web developments<br>
 - 🚀 RestAPIs for endpoints connection<br>
 - 🌱 Flutter & ReactNative to enable frontend possibilty<br>
 
