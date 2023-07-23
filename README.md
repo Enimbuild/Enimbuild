@@ -51,7 +51,7 @@ print(Felix.__Proficient__(),"but at a",Felix.__Beginner__())
 
 ***😄Fun Facts About Me***
 I enjoy:
-- I am a <a href="https://youtube.com/c/felixsarsah">youtuber</a>
+- Teaching on <a href="https://youtube.com/c/felixsarsah">youtuber</a>
 - Writing Books
 - Painting 
 - Football
