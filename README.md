@@ -13,7 +13,7 @@ Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was
 
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
-- 🔥 I used django to build this book project called <a href="<a href="https://www.authenticbird.com">Authenticbird</a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br>
+- 🔥 I used django to build this book project called <a href="<a href="www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br>
 - ❤️ <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook">Data Science</a> by using python libraries for data analysis<br>
 - 🚀 RestAPIs for endpoints connection<br>
 - 🌱 Flutter & ReactNative to enable frontend possibilty<br>
