@@ -13,10 +13,10 @@ Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was
 
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
-- 🔥 I used django to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.
+- 🔥 I used django to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br>
 - ❤️ <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook">Data Science</a> by using python libraries for data analysis<br>
 - 🚀 RestAPIs for endpoints connection<br>
-- 🌱 Flutter & ReactNative to enable frontend possibilty<br>
+- 🌱 Kivy, Flutter & ReactNative to enable frontend possibilty.<br>
 
 I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
 
