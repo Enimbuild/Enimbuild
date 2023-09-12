@@ -6,10 +6,9 @@
 </p>
 I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom teaching.
 
+I am an aspiring programmer driven by a strong belief in the transformative potential of technology, energy, and entrepreneurship. My journey into programming marks a pivotal career shift toward IT, where Python is my chosen tool, offering versatility and data analysis capabilities crucial for artificial intelligence. Additionally, I'm exploring Django for rapid web development and Kivy for mobile app creation.
+My approach combines technical expertise with a mindset focused on innovation and problem-solving. I'm passionate about using technology to bridge the gap between energy and entrepreneurship, aiming to develop solutions that drive businesses forward.
 
-Upon moving to Germany and observing how events were shaping up these last 3 years around the world, I decided to make a career switch in IT and to embarked on a bold challenge to learn Python and backend programming.
-
-Prior to starting Python, I taught myself HTML, CSS,Bootstrap, PHP, but that was not enough, so I made the ultimate decision to enroll and undertake a 1 year intensive backend programming in Python to open new frontiers.
 
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
