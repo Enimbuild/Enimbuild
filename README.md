@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst;I'm+a+Back+end+developer;I'm+a+Python+programmer;I'm+avaialable+for+Hiring!" /></a>
 </p>
-I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom teaching.
+I have worked the last 10 years as a Chemistry Teacher in Secondary Schools in London and Kent in the United Kingdom.
 
 I am a programmer driven by a strong belief in the transformative potential of technology, energy, and entrepreneurship. My journey into programming marks a pivotal career shift toward IT, where Python is my chosen tool, offering versatility and data analysis capabilities crucial for artificial intelligence. Additionally, I'm exploring Django for rapid web development and Kivy for mobile app creation.
 My approach combines technical expertise with a mindset focused on innovation and problem-solving. I'm passionate about using technology to bridge the gap between energy and entrepreneurship, aiming to develop solutions that drive businesses forward.
