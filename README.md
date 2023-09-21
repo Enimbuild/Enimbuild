@@ -10,7 +10,7 @@ I am a programmer driven by a strong belief in the transformative potential of t
 My approach combines technical expertise with a mindset focused on innovation and problem-solving. I'm passionate about using technology to bridge the gap between energy and entrepreneurship, aiming to develop solutions that drive businesses forward.
 
 
-### 💼 I'm currently working on ✨Exciting Projects✨ using: Django, Flask, Python, OOP, REST APIs, PostgreSQL, VPS, AWS, Git, Jira, HTML, CSS, Management Tools etc
+### 💼 I'm currently working on ✨Exciting Projects✨ using the following Tools: Django, Flask, Python, OOP, REST APIs, PostgreSQL, VPS, AWS, Git, Jira, HTML, CSS, Management Tools etc
 <hr>
 # Click on <a href="https://enimbuild.github.io/portfolio/#projects"><span style="font-weight:bold">My Projects Porfolio </span></a>💼<br><br>
 - 🔥 I used django, postgres, nginx, gunicorn with supervisor to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br><br>
