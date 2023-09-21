@@ -12,6 +12,7 @@ My approach combines technical expertise with a mindset focused on innovation an
 
 ### 💼 I'm currently working on ✨Exciting Projects✨ using:
 <hr>
+Click on <a href="https://enimbuild.github.io/portfolio/"><span style="font-weight:bold">Project Porfolio</span></a><br><br>
 - 🔥 I used django, postgres, nginx, gunicorn with supervisor to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br><br>
 - ❤️ <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook/blob/main/Analysis.ipynb">Data Science</a> by using python libraries for data analysis<br><br>
 - 🚀 RestAPIs for endpoints connection<br><br>
