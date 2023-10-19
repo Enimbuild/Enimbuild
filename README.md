@@ -7,7 +7,7 @@
 As a former chemistry teacher I had to make a career switch because I believed in the  transformative potential of technology, energy, and entrepreneurship. I believe these three things make the future. My journey into programming marks a pivotal career shift toward IT, where Python is my chosen tool, offering versatility and data analysis capabilities crucial for artificial intelligence. Additionally, I'm exploring Django for rapid web development and Kivy for mobile app creation.My approach combines technical expertise with a mindset focused on innovation and problem-solving. I'm passionate about using technology to bridge the gap between energy and entrepreneurship, aiming to develop solutions that drive businesses forward.
 
 
-### 💼 I'm currently working on ✨Webscraping Projects with Data Analysis✨ using the following Tools: Django, Data Analysis, Flask, Python, OOP, REST APIs, PostgreSQL, VPS, AWS, Git, Jira, HTML, CSS, Management Tools etc
+### 💼 I'm currently working on ✨Webscraping Projects with Data Analysis✨ using the following Tools: AI, Django, Pandas, Seaborn, Numpy, Matplotlib, Flask, Python, OOP, REST APIs, PostgreSQL, VPS, AWS, Git, Jira, HTML, CSS, Management Tools etc
 <hr>
 Click on <a href="https://enimbuild.github.io/portfolio/#projects"><span style="font-weight:bold">My Projects Porfolio </span></a>💼<br><br>
 - 🔥 I used django, postgres, nginx, gunicorn with supervisor to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br><br>
