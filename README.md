@@ -13,7 +13,7 @@ Click on <a href="https://enimbuild.github.io/portfolio/#projects"><span style="
 - 🔥 I used django, postgres, nginx, gunicorn with supervisor to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br><br>
 - ❤️ <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook/blob/main/Analysis.ipynb">Data Science</a> by using python libraries for data analysis<br><br>
 - 🚀 RestAPIs for endpoints connection<br><br>
-- 🌱 Kivy, Flutter & ReactNative to enable frontend possibilty.<br>
+- 🌱 Flet for frontend possibilty.<br>
 
 I am incredibly excited on this new journey in programming and the 🔭future possibilities are endless.
 
