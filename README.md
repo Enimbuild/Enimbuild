@@ -13,6 +13,7 @@ Click on <a href="https://enimbuild.github.io/portfolio/#projects"><span style="
 - 🔥 I used django, postgres, nginx, gunicorn with supervisor to build this book project called <a href="https://www.authenticbird.com"> Authenticbird </a>: <a href="https://www.authenticbird.com"> www.authenticbird.com </a> <br> and set up a VPS (Cloud) service for this project.<br><br>
 - ❤️ <a href="https://enimbuild.github.io/portfolio/#ml">Machine learning Apps</a> by using python libraries for data analysis<br><br>
 - ❤️ <a href="https://enimbuild.github.io/portfolio/#analytics">Data Analysis</a> by using streamlit for data analysis<br><br>
+- open source <a href="https://github.com/Enimbuild/Stable_diffusion_On_Kaggle/tree/main"> Run Stable Diffusion UI on Kaggle</a><br><br>
 - 🚀 RestAPIs for endpoints connection<br><br>
 - 🌱 Flet for frontend possibilty.<br>
 
